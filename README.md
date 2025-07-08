@@ -14,7 +14,7 @@
 
 ---
 
-##💡 How It Works
+## 💡 How It Works
 - On load, the app fetches a random affirmation from ZenQuotes.
 - Click New Affirmation to get another quote.
 - Handles errors and loading states gracefully.
