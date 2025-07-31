@@ -2,6 +2,9 @@
 - Get a new positive affirmation every day!
 - Built with React, using hooks and the ZenQuotes API.
 
+<img width="1779" height="901" alt="image" src="https://github.com/user-attachments/assets/e5a3da56-8a5f-464e-bf73-b7afba8c67db" />
+
+
 ---
 
 ## 🚀 Features
